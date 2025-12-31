@@ -1,5 +1,5 @@
-# Snake-ai-reinforcement-learning
-# 🐍 Snake AI – Reinforcement Learning Project
+
+#  Snake AI – Reinforcement Learning Project
 
 This project trains an AI agent to play the classic **Snake Game** using **Deep Q-Learning (DQN)**.
 
@@ -7,7 +7,7 @@ The agent learns through trial and error, improving its performance over time by
 
 ---
 
-## 🚀 Features
+##  Features
 - Reinforcement Learning using Deep Q-Network (DQN)
 - Experience Replay
 - Epsilon-Greedy Exploration
@@ -16,7 +16,7 @@ The agent learns through trial and error, improving its performance over time by
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 The agent:
 - Observes the game state  
 - Chooses actions (left, right, straight)  
@@ -27,16 +27,12 @@ The agent:
 
 ---
 
-## 📈 Training Behavior
+##  Training Behavior
 During early training:
 - Scores may fluctuate
 - Sudden spikes (like score 17) are normal
 - Stability improves with more episodes
 
----
 
-## 🛠️ Installation
 
-```bash
-pip install -r requirements.txt
 
